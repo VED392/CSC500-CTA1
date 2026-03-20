@@ -44,7 +44,7 @@ def mulndiv():
     print("Product:", multiply(first_number, second_number))
     print("Quotient:", divide(first_number, second_number))
 
-# Test Cases Function (Gaddis-style modular testing)
+# Test Cases Function 
 def run_tests():
     print("\nRunning Test Cases...\n")
 
